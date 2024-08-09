@@ -1,0 +1,4 @@
+[submodule "module"]
+	path = module
+	url = https://github.com/hosung-gn/monitoring_module.git
+	branch = main

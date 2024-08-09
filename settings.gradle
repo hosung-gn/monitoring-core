@@ -1,5 +1,5 @@
 rootProject.name = 'parent_monitoring'
 
 include(':monitoring-core')
-
+include('module:database')
 
